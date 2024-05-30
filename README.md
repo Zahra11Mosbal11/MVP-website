@@ -1,9 +1,8 @@
 MVP specification wonders
 -------------------------
+
 Team members : ZAHRA MUSBAL 
----------------------------
-
-
+--------------
 
 Architecture:
 ------------
@@ -106,8 +105,9 @@ Data Model :
 https://app.sqldbm.com/MySQL/Edit/p298593
 
 
-User Stories: 
+User Stories:
 -------------
+
 User Story 1: User Registration and Authentication
 As a new user, I want to create an account and log in securely so that I can access my personalized shopping experience and order history.
 Acceptance Criteria:
@@ -134,8 +134,10 @@ The user can remove items from the shopping cart.
 The shopping cart persists between sessions for logged-in users.
 User Story 4: Checkout Process
 As a shopper, I want to complete my purchase through a streamlined checkout process so that I can receive the items I have selected.
+
 Acceptance Criteria:
 --------------------
+
 The user can proceed to checkout from the shopping cart.
 The user can enter and save shipping information.
 The user can select a payment method and securely enter payment details.
